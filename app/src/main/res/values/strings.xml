@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Espresso Basics</string>
+    <string name="et_text_hint">Enter text</string>
+    <string name="radio_group_title">Format options:</string>
+    <string name="bt_display_text">Display</string>
+    <string name="uppercase">Uppercase</string>
+    <string name="lowercase">Lowercase</string>
+    <string name="default_text">Default</string>
 </resources>
