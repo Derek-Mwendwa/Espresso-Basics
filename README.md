@@ -1,5 +1,5 @@
 # Espresso Basics
-This is the main **Espresso Basics** app. The app contains all the Espresso tests mentioned in the topic Espresso Basics provided by Hyperskill.
+This is the starter code for the **Espresso Basics** app. The app provides a starting point for the topic Espresso Basics provided by Hyperskill.
 
 ## Setup
 1. Download the project
