@@ -6,4 +6,5 @@
     <string name="uppercase">Uppercase</string>
     <string name="lowercase">Lowercase</string>
     <string name="default_text">Default</string>
+    <string name="greeting">Hello World!</string>
 </resources>
